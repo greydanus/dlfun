@@ -8,7 +8,9 @@ A bunch of iPython notebooks I made while trying to teach myself machine learnin
 * **[mixture_density](https://github.com/greydanus/adventures/tree/master/mixture_density)**
   * Mixture Density Networks: they are just like vanilla neural networks but they capture uncertainty in their predictions using Gaussian kernels.
 * **[recurrent_mdn](https://github.com/greydanus/adventures/tree/master/recurrent_mdn)**
-  * Recurrent model with mixture density cap - a lite version of the model described by [Alex Graves (2014)](http://arxiv.org/abs/1308.0850)
+  * Recurrent model with mixture density cap - a light version of the model described by [Alex Graves (2014)](http://arxiv.org/abs/1308.0850)
+* **[autoencoder](https://github.com/greydanus/adventures/tree/master/autoencoder)**
+  * A simple autoencoder trained on the MNIST handwritten digit dataset
 
 If you have any questions, contact me at sam.17(at)dartmouth.edu
 
@@ -19,6 +21,7 @@ All notebooks
 * **[circle_train](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/recurrent_mdn/circle_train.ipynb)**: Recurrent neural network demo in TensorFlow for generating 2D coordinates 
 * **[circle_generate](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/recurrent_mdn/circle_generate.ipynb)**: ^same
 * **[mdn_tensorflow](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/mixture_density/mdn_tensorflow.ipynb)**: Mixture density network implementation from Bishop's 1994 book, Machine Learning and Pattern Recognition
+* **[autoencoder](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/autoencoder/mnist_autoencoder.ipynb)**: An autoencoder trained on the MNIST handwritten digit dataset
 
 Dependencies
 --------
