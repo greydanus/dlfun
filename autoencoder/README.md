@@ -4,7 +4,7 @@ The basic idea behind an autoencoder is to teach a deep neural newtwork the iden
 
 Autoencoders are cool because they force the network to save only the most important characteristics of the data, often revealing interesting patterns or insights about the data
 
-![Samples from the MNIST autoencoder](../img/aec.jpg?raw=true "Title")
+![Samples from the MNIST autoencoder](../img/aec.png?raw=true "Title")
 
 Dependencies
 --------
