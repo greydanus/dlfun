@@ -20,7 +20,7 @@ All notebooks
 * **[generate](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/graves/generate.ipynb)**: ^same
 * **[circle_train](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/recurrent_mdn/circle_train.ipynb)**: Recurrent neural network demo in TensorFlow for generating 2D coordinates 
 * **[circle_generate](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/recurrent_mdn/circle_generate.ipynb)**: ^same
-* **[mdn_tensorflow](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/mixture_density/mdn_tensorflow.ipynb)**: Mixture density network implementation from Bishop's 1994 book, Machine Learning and Pattern Recognition
+* **[mdn_tensorflow](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/mixture_density/mdn.ipynb)**: Mixture density network implementation from Bishop's 1994 book, Machine Learning and Pattern Recognition
 * **[autoencoder](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/autoencoder/mnist_autoencoder.ipynb)**: An autoencoder trained on the MNIST handwritten digit dataset
 
 Dependencies
