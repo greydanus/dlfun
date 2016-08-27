@@ -16,7 +16,7 @@ If you have any questions, contact me at sam.17(at)dartmouth.edu
 
 All notebooks
 -----------
-* **[train](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/graves/train.ipynb#)**: Implementation of the [2014 Graves paper](https://arxiv.org/abs/1308.0850) about handriting generation with RNNs but only does circle/square sequences right now
+* **[train_shapes](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/graves/train_shapes.ipynb)**: Implementation of the [2014 Graves paper](https://arxiv.org/abs/1308.0850) about handriting generation with RNNs but only does circle/square sequences right now
 * **[generate](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/graves/generate.ipynb)**: ^same
 * **[circle_train](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/recurrent_mdn/circle_train.ipynb)**: Recurrent neural network demo in TensorFlow for generating 2D coordinates 
 * **[circle_generate](https://nbviewer.jupyter.org/github/greydanus/adventures/blob/master/recurrent_mdn/circle_generate.ipynb)**: ^same
